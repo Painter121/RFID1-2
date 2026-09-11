@@ -8,7 +8,6 @@
 
 ![แบบออกแบบเครื่องอ่าน RFID: Isometric, Top View, Right View และ Front View](docs/images/rfid-reader-mechanical-drawing.png)
 
-- [ดูภาพพิมพ์เขียวขนาดเต็ม](docs/images/rfid-reader-mechanical-drawing.png)
 - [เปิดแบบพิมพ์เขียวฉบับ PDF](Drawing-RFID%20Reader.pdf)
 - [ดาวน์โหลดไฟล์ SolidWorks (.SLDDRW)](Drawing.SLDDRW)
 
