@@ -4,7 +4,7 @@
 
 ## การออกแบบชิ้นงาน 3D & แบบกล่องติดตั้ง
 
-ออกแบบกล่องบรรจุอุปกรณ์พร้อมกำหนดตำแหน่งยึดบอร์ด หน้าจอ LCD I2C, โมดูล RFID RC522 และช่องระบายความร้อนด้วยโปรแกรม SolidWorks
+ออกแบบกล่องบรรจุอุปกรณ์พร้อมกำหนดตำแหน่งยึดบอร์ด หน้าจอ LCD I2C และโมดูล RFID RC522 ด้วยโปรแกรม SolidWorks
 
 ![แบบออกแบบเครื่องอ่าน RFID: Isometric, Top View, Right View และ Front View](docs/images/rfid-reader-mechanical-drawing.png)
 
